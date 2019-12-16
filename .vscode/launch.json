@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - a002",
+            "request": "launch",
+            "mainClass": "a002"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - a001",
             "request": "launch",
             "mainClass": "basic.a001"
