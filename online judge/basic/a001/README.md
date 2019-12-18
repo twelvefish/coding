@@ -37,6 +37,6 @@ Scanner scaner = new Scanner(System.in);
 
 #### 4、添加 hello, 印出字串
 
-#### 5、最後清空字串，避免上一回測資留下
+#### 5、最後清空字串，清空上一回測資
 
 
