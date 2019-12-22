@@ -1,3 +1,5 @@
+package basic.a003;
+
 import java.util.Scanner;
 
 /**
